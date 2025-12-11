@@ -1,0 +1,18 @@
+# Backend (Spring Boot)
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.factorypath
+
+# Frontend (React / Vite)
+frontend/node_modules/
+frontend/dist/
+
+# Logs
+*.log
+
+# OS & IDE junk files
+.DS_Store
+.idea/
+*.iml
